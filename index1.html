@@ -1,0 +1,23 @@
+<div id="container">
+  <!-- populated by JS-->
+</div>
+<script src="./boston.js"></script>
+<script>
+  function renderBoston(boston, container) {
+    var person = boston;
+    var len = boston.length; // posts is an array
+    var html = '';
+    for (let i = 0; i < len; i++) {
+      html += '<li class="boston">' +
+        '<h2>' + person[i][8] + '</h2>' +
+        '<h3>' + person[i][11] + '</h3></li>'
+    }
+    container.innerHTML = '<ul id = "boston">' + html + '</ul>';
+  }
+  boston.data.sort((a,b)=>b[11]-a[11]);
+  const firstFiveElements= boston.data.slice(0,5);
+  
+  renderBoston(firstFiveElements, document.getElementById('container'));
+  
+
+</script>
