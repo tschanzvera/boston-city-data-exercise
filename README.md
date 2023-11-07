@@ -10,3 +10,5 @@ You also need to use curl to get the Boston City data from https://pollysnips.s3
 NOTE:
 
 This is a little exercise that I had to do for my MITxPRO course. 
+
+You can look at the graph at:https/tschanzvera.github.io/boston-city-data-exercise
