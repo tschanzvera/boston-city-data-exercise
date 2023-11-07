@@ -11,4 +11,4 @@ NOTE:
 
 This is a little exercise that I had to do for my MITxPRO course. 
 
-You can look at the graph at:https//tschanzvera.github.io/boston-city-data-exercise/
+You can look at the results at: https://tschanzvera.github.io/boston-city-data-exercise/index1.html
