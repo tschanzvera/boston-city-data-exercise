@@ -11,3 +11,12 @@ NOTE:
 This is a little exercise that I had to do for my MITxPRO course. 
 
 You can look at the results at: https://tschanzvera.github.io/boston-city-data-exercise/index1.html
+
+
+## SUPPORT
+
+If you have any questions please contact www.linkedin.com/in/vera-tschanz-500258a2
+
+## LICENSE
+
+MIT LICENSE
